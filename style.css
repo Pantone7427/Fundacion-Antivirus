@@ -34,7 +34,7 @@ Párrafos: Acumin variable concept, Myriad Pro, Minion Variable Concept,Lucida F
     text-align: justify;
 }
 
-img{
+.img-fluid{
     width: 400px;
     height: 400px;
     top: 299px;
